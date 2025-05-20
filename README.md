@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 **1. Create React app **
 
-npm create vite@latest my-todo-app --template react 
+npm create vite@latest my-todo-app -- --template react 
 
 cd my-todo-app 
 
